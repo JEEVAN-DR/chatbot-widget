@@ -1,3 +1,8 @@
+#output 
+
+
+https://github.com/user-attachments/assets/2a6af4db-4289-4607-b133-eb7962a112cf
+
 
 # Introduction 
 This project is a plug-and-play AI chatbot widget that can be embedded into any web application. It is built using **React + Vite** for the frontend and **Python FastAPI** for the backend. The chatbot uses a **Retrieval-Augmented Generation (RAG)** pipeline to provide intelligent, context-aware responses by retrieving relevant information from custom documents or data sources before generating an answer. This makes it suitable for use in documentation sites, customer support systems, knowledge bases, and more.
